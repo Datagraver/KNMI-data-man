@@ -12,3 +12,5 @@ All data is from KNMI and starts in 1901.
 https://www.knmi.nl/nederland-nu/klimatologie/daggegevens
 
 Data will be updated once a day at 09:30 UTC.
+
+All temperatures are in tenths of degrees Celcius
