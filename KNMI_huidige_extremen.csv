@@ -1,4 +1,4 @@
-maand;dag;jaar1;tgmin;jaar2;tnmin;jaar3;txmin;jaar4;tgmax;jaar5;tnmax;jaar6;txmax
+maand,dag,jaar1,tgmin,jaar2,tnmin,jaar3,txmin,jaar4,tgmax,jaar5,tnmax,jaar6,txmax
 1,1,1997,-114,1979,-169,1997,-73,2012,116,2012,102,2012,129
 1,2,1997,-126,1979,-167,1997,-81,1988,109,1921,96,1988,134
 1,3,1908,-98,1979,-177,1941,-54,1932,106,1932,102,2014,122
