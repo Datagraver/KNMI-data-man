@@ -1,7 +1,9 @@
 # KNMI-data-man
 Manipulated KNMI datasets for further use, like number of records, or summaries.
 
-Still work in progress.
+Allways work in progress.
+
+Data is for the Dutch station De Bilt (260).
 
 Here we place CSV's (with semi colon as seperator) with summaries from KNMI data.
 
